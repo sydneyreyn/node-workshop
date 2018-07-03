@@ -1,0 +1,40 @@
+.h1 {
+    font-size: 60pt;
+    color: silver;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.compliment {
+    text-align: center;
+    font-size: 20pt;
+    color: gold;
+    padding-top: 20px;
+}
+.insult {
+    text-align: center;
+    font-size: 20pt;
+    color: gold;
+    padding-top: 30px;
+}
+.request-compliment {
+    text-align: center;
+    font-size: 20px;
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 550px;
+    cursor: pointer;
+}
+.request-insult {
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 580px;
+    cursor: pointer;
+}
